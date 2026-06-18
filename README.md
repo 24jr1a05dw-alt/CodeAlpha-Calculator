@@ -6,7 +6,7 @@ It performs basic arithmetic operations with a clean and user-friendly interface
 ---
 
 ## 🚀 Live Demo
-https://24jr1a05dw-alt.github.io/CodeAlpha-
+https://24jr1a05dw-alt.github.io/CodeAlpha-Calculator/
 
 ## 💻 GitHub Repository
 https://github.com/24jr1a05dw-alt/CodeAlpha-Calculator.git
