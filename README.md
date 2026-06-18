@@ -2,7 +2,7 @@ A simple, responsive calculator built using HTML, CSS, and JavaScript.
 It performs basic arithmetic operations with a clean and user-friendly interface.
 
 🚀 Live Demo: https://yourusername.github.io/calculator/
-GitHub Repository: 
+GitHub Repository: https://github.com/24jr1a05dw-alt/CodeAlpha-Calculator.git
 ✨ Features
   .➕ Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
   .🧠 Real-time input display
